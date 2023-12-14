@@ -1,0 +1,20 @@
+.App {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  overflow: hidden; /* Hide horizontal scrollbars */
+}
+
+.section {
+  background: white;
+  padding: 20px;
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  font-size: 24px;
+  transition: background 0.3s ease;
+}
+
+/* Add specific styles for each section as needed */
