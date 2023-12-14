@@ -59,6 +59,7 @@
     text-align: center;
     color: #fff;
     padding: 40px;
+    max-height: 80% ;
   }
   
   .featured-services h2 {

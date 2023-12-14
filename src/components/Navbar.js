@@ -5,7 +5,7 @@ const Navbar = () => {
   return (
     <nav className="navbar">
       <div className="logo">
-      <img src='./images/decorGharLogo.png' alt="Logo" />
+      <img src='E:\React\decor-ghar\public\images\decorGharLogo.png' alt="Logo" />
       </div>
       <ul className="menu">
         <li>
